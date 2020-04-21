@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: java -jar target/PikaBuy.jar
